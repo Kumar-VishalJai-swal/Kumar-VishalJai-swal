@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vishaljais1419" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYmpPi9QdBVFOKcjBZ7Sv_KnFtnhVyUYCIw&usqp=CAU" alt="vishaljais1419" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal jaiswal" height="30" width="40" /></a>
-<a href="https://fb.com/vishal jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishal jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/vishaljaiswal2343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishaljaiswal2343" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-jaiswal-80677b265" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="vishal jaiswal" height="30" width="40" /></a>
+<a href="[https://fb.com/vishal jaiswal](https://www.facebook.com/vishaljaiswal.vishalkumar.73)" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqa3JcHHPA27AzegABz19EF_AO0ZLhh1N0kw&usqp=CAU" alt="vishal jaiswal" height="30" width="40" /></a>
+<a href="https://instagram.com/vishaljaiswal2343" target="blank"><img align="center" src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="vishaljaiswal2343" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
