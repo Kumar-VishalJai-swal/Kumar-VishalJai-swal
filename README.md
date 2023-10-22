@@ -1,4 +1,4 @@
-![logo](https://github.com/Kumar-VishalJai-swal/Kumar-VishalJai-swal/blob/main/banner.jpeg)
+![logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -10,16 +10,21 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishaljais1419" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYmpPi9QdBVFOKcjBZ7Sv_KnFtnhVyUYCIw&usqp=CAU" alt="vishaljais1419" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vishal-jaiswal-80677b265" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="vishal jaiswal" height="30" width="40" /></a>
-<a href="[https://fb.com/vishal jaiswal](https://www.facebook.com/vishaljaiswal.vishalkumar.73)" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqa3JcHHPA27AzegABz19EF_AO0ZLhh1N0kw&usqp=CAU" alt="vishal jaiswal" height="30" width="40" /></a>
-<a href="https://instagram.com/vishaljaiswal2343" target="blank"><img align="center" src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="vishaljaiswal2343" height="30" width="40" /></a>
+<a href="https://twitter.com/vishaljais1419" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYmpPi9QdBVFOKcjBZ7Sv_KnFtnhVyUYCIw&usqp=CAU" alt="vishaljais1419" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-jaiswal-80677b265" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="vishal jaiswal" height="40" width="40" /></a>
+<a href="https://www.facebook.com/vishaljaiswal.vishalkumar.73" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqa3JcHHPA27AzegABz19EF_AO0ZLhh1N0kw&usqp=CAU" alt="vishal jaiswal" height="40" width="40" /></a>
+<a href="https://instagram.com/vishaljaiswal2343" target="blank"><img align="center" src="https://i.pinimg.com/736x/21/d6/7f/21d67f1d6b3be5bb2e39395311c77fc6.jpg" alt="vishaljaiswal2343" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzhg9QIjXvkdpTOC_LzhrDp-ybRiUaYCuASkoJgSCTZFl6UnfhOg5bM1pqv-yniq7N70&usqp=CAU" alt="bootstrap" width="50" height="50"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/a9/dc/c7/a9dcc740cad3149598307b5de8bc10c3.jpg" alt="css3" width="50" height="50"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4187497.jpg" alt="html5" width="50" height="50"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/474x/fd/69/84/fd6984368ba75ec90b8f9fe0cae05566.jpg" alt="python" width="50" height="50"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-vishaljai-swal&show_icons=true&locale=en&layout=compact" alt="kumar-vishaljai-swal" /></p>
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar-vishaljai-swal&show_icons=true&locale=en" alt="kumar-vishaljai-swal" /></p>
 
